@@ -1,7 +1,7 @@
 import azure.functions as func
 import logging
-import mysql.connector
-from mysql.connector import errorcode
+#import mysql.connector
+#from mysql.connector import errorcode
 
 t1 = func.Blueprint()
 
